@@ -1,4 +1,4 @@
-class PgformatterATmain < Formula
+class Pgformatter@main < Formula
   desc "PostgreSQL syntax beautifier"
   homepage "https://sqlformat.darold.net/"
   url "https://github.com/darold/pgFormatter/archive/refs/heads/master.tar.gz"
